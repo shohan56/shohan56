@@ -5,10 +5,8 @@
 
 
 --- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=al-momen663&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shohan56&theme=aura_dark)
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al-momen663&theme=blueberry)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=al-momen663&theme=blueberry)
 
 
 ## Tools and Technologies
